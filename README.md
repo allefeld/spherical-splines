@@ -1,4 +1,4 @@
-# Spherical Splines for Scalp Potential and Current Density Mapping
+# Spherical splines for scalp potential and current density mapping
 
 This repository contains code implementing the method published by
 Perrin, Pernier, Bertrand, Echallier, Spherical splines for scalp potential and current density mapping, *Electroencephalography and Clinical Neurophysiology* 72(2), 184-187, 1989.
